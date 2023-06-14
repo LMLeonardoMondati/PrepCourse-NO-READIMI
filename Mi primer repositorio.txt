@@ -1,0 +1,18 @@
+COMANDOS NECESARIOS  
+
+pwd                print working directory 
+ls                 list 
+mkdir              make a nwe directory (carpeta)
+cd                 cambiar de directorio (carpeta) 
+touch              crear un nuevo archivo         agregar extension 
+rm                 elimina archivo 
+rm -r              elimina la carpeta de nombre "carpetaPrueba"
+
+
+rm -rf.git         quitar la modalidad reservorio 
+git init           crear un reservorio git 
+git status         ver estado 
+git add            agregar archivos al commit 
+git commit -m      para almacenar definitivamente los cambios que por ahora viven en el staging área. En el mensaje ponemos el mensaje explica los cambios commiteados. 
+git push           para mandar nuestros commits a un servidor remoto
+git pull           sirve para recibir cambios de repositorio remoto a local
